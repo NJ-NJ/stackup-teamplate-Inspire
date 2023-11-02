@@ -1,9 +1,10 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+A blogging website, Name : Inspire. Our website will be focusing on articles about teen health.Mental and physical health will be focused.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Nino Jagadish [https://github.com/NJ-NJ]
+1. Anusree R S [https://github.com/Anusree2003]
+2. Basima N [Embed perosnal github URL]
 ## Team Id
 Team id here
 ## Link to product walkthrough
